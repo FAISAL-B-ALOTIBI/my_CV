@@ -1,6 +1,6 @@
 ---
-# YOUR-NAME (eg. FAISAL B ALOTIBI)
-FAISAL B ALOTIBI
+## (eg. FAISAL B ALOTIBI)
+
 Eg. Software and DevOps engineer, Cloud architect,
 
 
